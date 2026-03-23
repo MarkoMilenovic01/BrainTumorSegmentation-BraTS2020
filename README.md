@@ -1,6 +1,6 @@
 # 🧠 Brain Tumor 3D Segmentation (BraTS 2020)
 
-![SwinUNETR Qualitative Result](images/SwinUNETR_qualitative.png)
+![SwinUNETR Qualitative Result](SwinUNETR_qualitative.png)
 
 A deep learning project for **3D brain tumor segmentation from multi-modal MRI scans**, implemented as a complete pipeline in a **Kaggle notebook environment**.
 
